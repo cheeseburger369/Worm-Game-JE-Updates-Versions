@@ -1,0 +1,31 @@
+{
+  "latest": "1.1",
+  "versions": [
+    {
+      "id": "1.1",
+      "name": "Enhanced Edition",
+      "description": "Improved graphics and sound effects",
+      "releaseDate": "2025-01-15",
+      "downloadUrl": "https://cheeseburger369.github.io/wormgame-versions/versions/1.1/TheWormGame.zip",
+      "size": "2.5 MB",
+      "changelog": [
+        "Added sound effects",
+        "Improved graphics",
+        "Bug fixes"
+      ]
+    },
+    {
+      "id": "1.0",
+      "name": "Initial Release",
+      "description": "Classic worm gameplay with dark theme",
+      "releaseDate": "2025-01-01",
+      "downloadUrl": "https://cheeseburger369.github.io/wormgame-versions/versions/1.0/TheWormGame.zip",
+      "size": "2.1 MB",
+      "changelog": [
+        "Initial release",
+        "Classic worm gameplay",
+        "Dark theme implementation"
+      ]
+    }
+  ]
+}
