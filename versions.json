@@ -1,9 +1,12 @@
+{
+  "latest": "1.0",
+  "versions": [
     {
       "id": "1.0",
       "name": "Initial Release",
       "description": "Classic worm gameplay with dark theme",
       "releaseDate": "2025-01-01",
-      "downloadUrl": "https://cheeseburger369.github.io/wormgame-versions/versions/1.0/TheWormGame.zip",
+      "downloadUrl": "https://github.com/cheeseburger369/Worm-Game-JE-Updates-Versions/raw/main/ver1.0.zip",
       "size": "2.1 MB",
       "changelog": [
         "Initial release",
@@ -11,4 +14,5 @@
         "Dark theme implementation"
       ]
     }
-
+  ]
+}
